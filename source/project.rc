@@ -1,0 +1,30 @@
+1 ICON "icon_1.ico"
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,9
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "000004B0"
+	{
+		VALUE "CompanyName", "Veit Berwig"
+		VALUE "FileDescription", "Do nothing and exit with exit(0). Build by most famous TinyCC Compiler"
+		VALUE "FileVersion", "3.10.0"
+		VALUE "InternalName", "Do Nothing"
+		VALUE "LegalCopyright", "Copyright © 2001-2023 Veit Berwig"
+		VALUE "OriginalFilename", "Do_Nothing.exe"
+		VALUE "ProductName", "Do Nothing"
+		VALUE "ProductVersion", "1.0.0"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0000, 0x04B0
+}
+}
+
+1 24 "data_1.bin"
