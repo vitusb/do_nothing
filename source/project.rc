@@ -1,8 +1,8 @@
 1 ICON "icon_1.ico"
 
 1 VERSIONINFO
-FILEVERSION 1,0,0,0
-PRODUCTVERSION 1,0,0,9
+FILEVERSION 1,0,1,0
+PRODUCTVERSION 1,0,1,0
 FILEOS 0x4
 FILETYPE 0x1
 {
@@ -12,12 +12,12 @@ BLOCK "StringFileInfo"
 	{
 		VALUE "CompanyName", "Veit Berwig"
 		VALUE "FileDescription", "Do nothing and exit with exit(0). Build by most famous TinyCC Compiler"
-		VALUE "FileVersion", "3.10.0"
+		VALUE "FileVersion", "1.0.1"
 		VALUE "InternalName", "Do Nothing"
-		VALUE "LegalCopyright", "Copyright © 2001-2023 Veit Berwig"
+		VALUE "LegalCopyright", "GNU GENERAL PUBLIC LICENSE Version 3.0"
 		VALUE "OriginalFilename", "Do_Nothing.exe"
 		VALUE "ProductName", "Do Nothing"
-		VALUE "ProductVersion", "1.0.0"
+		VALUE "ProductVersion", "1.0.1"
 	}
 }
 

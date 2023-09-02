@@ -1,8 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <windows.h>
+
 //+---------------------------------------------------------------------------
 //
 //  Do_Nothing.c - Windows Console 'Nothing to do here !'
 //
 //+---------------------------------------------------------------------------
+
+#define APPNAME "Do_Nothing"
 
 main(){exit(0);}
 
