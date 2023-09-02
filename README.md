@@ -3,7 +3,7 @@ A tiny quick-hack that simply does nothing and is exiting with exitcode 0
 
 - :information_source: Update [TinyCC](https://github.com/vitusb/do_nothing/tree/main/source/compiler) to Version 0.9.27 latest commit ff2a372 date: 20230831 2023-08-31_mob@ff2a372a
 
-- :information_source: This is a [TinyCC](https://github.com/vitusb/do_nothing/tree/main/source/compiler) development environment, based on busybox with dll2def, make.exe, etc. and a patched version of windres to support [TinyCC](https://github.com/vitusb/do_nothing/tree/main/source/compiler) resources. To use [TinyCC](https://github.com/vitusb/do_nothing/tree/main/source/compiler), extract the 7z-Archive and run "tccshell.bat" from the "tinycc\x86"- or "tinycc\x64"-directory ("tccshell.bat" is a portable script without directory dependencies). :sunglasses:
+- :information_source: This is a [TinyCC](https://github.com/vitusb/do_nothing/tree/main/source/compiler) development environment, based on "busybox" with "dll2def", "make", etc. and a patched version of "windres" to support [TinyCC](https://github.com/vitusb/do_nothing/tree/main/source/compiler) resources. To use [TinyCC](https://github.com/vitusb/do_nothing/tree/main/source/compiler), extract the 7z-archive and run "tccshell.bat" from the "tinycc\x86"- or "tinycc\x64"-directory ("tccshell.bat" is a portable script without directory dependencies). :sunglasses:
 
   ( Do_Nothing ) by Veit Berwig in 2023
 
